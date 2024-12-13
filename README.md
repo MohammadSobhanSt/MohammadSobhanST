@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 <a href="t.me/Mohammadsobhan14" target="_blank">
-<img src="https://img.shields.io/static/v1? message-Telegram&logo=telegram&label=&color=2 CA5E0&logoColor=white&labelColor=&style=for-t he-badge" height="35" alt="telegram logo"  /> 
+<img src="https://img.shields.io/static/v1?message-Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-t he-badge" height="35" alt="telegram logo"/> 
 </a>
 
 # 💻 Tech Stack:
