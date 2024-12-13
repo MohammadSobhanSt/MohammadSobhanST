@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own website <br>🤝 I’m looking for help with hunting and making my website<br>🌱 I’m currently learning bug bounty, Network and django<br>💬 Ask me about myself and my work<br>
+🔭 I’m currently working on my own website <br>🤝 I’m looking for help with hunting and making my website<br>🌱 I’m currently learning bug bounty, Network and django<br>💬 Ask me about myself and my work<br> 🤍 i like linux (parch, arch, debian, ubuntu, kali, etc), cycling and learning :)
 
 
 ## 🌐 Socials:
