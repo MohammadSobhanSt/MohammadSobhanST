@@ -18,4 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammadsobhanst&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="right" height="150" src="https://dribbble.com/shots/2103470-Black-Cat-gif/attachments/9133319?mode=media"/>
