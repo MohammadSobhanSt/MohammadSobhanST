@@ -5,6 +5,7 @@
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mohammadsobhan14)
+[![Linkedin](https://img.shields.io/badge/linkedin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://https://www.linkedin.com/in/mohammadsobhan-habibdokht)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
