@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with finding a job as a junior backend developer.<br>
+🤝 I’m looking for help with finding a job as a intern fullstack developer.<br>
 💬 Ask me about myself and my work<br>
 🤍 I like Linux (Fedora, Arch, Ubuntu, Kali, etc), cycling and learning :)
 
