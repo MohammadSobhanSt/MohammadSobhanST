@@ -1,6 +1,6 @@
 # 💫 About Me:
 🤝 I’m looking for help with finding a job as a intern/junior fullstack developer.<br>
-💬 Ask me about myself and my work<br>
+💬 Ask me about whatever you want :)<br>
 🤍 I like Linux (Fedora, Arch, Ubuntu, Kali, etc), cycling and learning :)
 
 ## 🌐 Socials:
